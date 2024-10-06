@@ -1,5 +1,5 @@
 ### 𝐻𝑒𝑙𝑙𝑜, 𝐼'𝑚 𝐻𝑎𝑒𝑠𝑎!
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nutsnutsdonuts)](https://solved.ac/nutsnutsdonuts)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clasico)](https://solved.ac/clasico)
 
 <!--
 **dev-haesa/dev-haesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
